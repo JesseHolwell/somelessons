@@ -55,9 +55,13 @@ Now press `` ctrl + ` `` to open the terminal
 You don't really have to use the terminal and can use explorer if you want, but terminal will be used a lot in the future
 
 Some command line basics:
+
 `dir` - list the contents of the current folder
+
 `cd ..` - go up one level
+
 `cd somelessons` - go down into the somelessons folder
+
 `cd C:\Source\GitHub\somelessons` - navigate directly here
 
 From the somelessons folder, go ahead and enter `start page.html`
